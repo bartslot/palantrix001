@@ -1459,3 +1459,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.15-09.27.26:399][943]LogShaderCompilers: Display: Top 1 shader types by total compile time:
 [2022.12.15-09.27.26:399][943]LogShaderCompilers: Display:                                                  FHitProxyPS - 100.00% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
 [2022.12.15-09.27.26:399][943]LogShaderCompilers: Display: ================================================
+[2022.12.15-10.23.52:501][599]LogDerivedDataCache: C:/Users/barts/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:07.081 and deleted 0 files with total size 0 MiB. Scanned 4051 files in 4010 folders with total size 415 MiB.
+[2022.12.15-10.43.09:656][ 70]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (KYGO A11/800), InstanceID=1
+[2022.12.15-10.43.09:756][ 70]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=32156
+[2022.12.15-10.43.10:090][ 71]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{48180082-371e-4614-8ec6-59bdd2a0d678}, Name=Headphones (KYGO A11/800)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=65.92
+[2022.12.15-10.43.10:090][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.12.15-10.43.10:091][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.12.15-10.43.46:912][680]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2022.12.15-10.43.52:856][296]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.12.15-10.43.52:856][296]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2022.12.15-10.43.52:857][296]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ExponentialHeightFog_0
+[2022.12.15-10.43.52:857][296]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/VRTemplate/Maps/VRTemplateMap.VRTemplateMap:PersistentLevel.ExponentialHeightFog_0
+[2022.12.15-10.44.27:171][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.15-10.44.27:781][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1
+[2022.12.15-10.44.27:781][786]LogSavePackage: Moving '../../../../../../Users/barts/Documents/Unreal Projects/palantrix001/palantrix001/Saved/VRTemplateMap_Auto18CCD13E14C6E0C93D00CA7B35A3F87D3.tmp' to '../../../../../../Users/barts/Documents/Unreal Projects/palantrix001/palantrix001/Saved/Autosaves/Game/VRTemplate/Maps/VRTemplateMap_Auto1.umap'
+[2022.12.15-10.44.27:800][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/VRTemplateMap' took 0.643
+[2022.12.15-10.44.27:800][786]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.643
